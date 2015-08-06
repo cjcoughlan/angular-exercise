@@ -9,7 +9,7 @@ namespace AngularJSAuthentication.Models
     {
         public enum ApplicationTypes
         {
-            Javascript = 0,
+            JavaScript = 0,
             NativeConfidential = 1
         };
     }
